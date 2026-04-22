@@ -9,7 +9,7 @@ import gisImg from "../assets/projects/webgis.png";
 import posImg from "../assets/projects/pos.png";
 import photographyImg from "../assets/projects/photography.jpg";
 
-const filters = ['All', 'Web App', 'GIS', 'Tool']
+const filters = ['All']
 
 function ProjectCard({ project, i, isDark }) {
   const ref = useRef(null)
