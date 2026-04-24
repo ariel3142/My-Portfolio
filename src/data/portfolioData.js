@@ -58,7 +58,7 @@ export const skills = {
     { name: "Git", level: 80, color: "#f05032" },
     { name: "GitHub", level: 90, color: "#ffffff" },
     { name: "MySQL", level: 80, color: "#4479a1" },
-    { name: "WordPress", level: 65, color: "#007acc" },
+    { name: "WordPress", level: 50, color: "#007acc" },
   ],
 }
 
