@@ -43,16 +43,16 @@ export const interests = [
 
 export const skills = {
   languages: [
-    { name: "JavaScript", level: 70, color: "#f7df1e" },
+    { name: "JavaScript", level: 60, color: "#f7df1e" },
     { name: "PHP", level: 85, color: "#777bb4" },
     { name: "Python", level: 75, color: "#3776ab" },
-    { name: "C++", level: 50, color: "#00599c" },
+    { name: "C++", level: 30, color: "#00599c" },
   ],
   frameworks: [
-    { name: "React", level: 60, color: "#61dafb" },
+    { name: "React", level: 50, color: "#61dafb" },
     { name: "Laravel", level: 90, color: "#ff2d20" },
-    { name: "Vue.js", level: 70, color: "#42b883" },
-    { name: "Tailwind CSS", level: 85, color: "#06b6d4" },
+    { name: "Vue.js", level: 55, color: "#42b883" },
+    { name: "Tailwind CSS", level: 70, color: "#06b6d4" },
   ],
   tools: [
     { name: "Git", level: 80, color: "#f05032" },
