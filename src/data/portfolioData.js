@@ -20,10 +20,10 @@ export const personalInfo = {
 }
 
 export const stats = [
-  { label: "Projects Completed", value: "8+", icon: "code" },
-  { label: "Technologies Learned", value: "10+", icon: "cpu" },
+  { label: "Projects Completed", value: "5+", icon: "code" },
+  { label: "Technologies Learned", value: "7+", icon: "cpu" },
   { label: "Internship", value: "1x", icon: "briefcase" },
-  { label: "GitHub Commits", value: "20+", icon: "git" },
+  { label: "GitHub Commits", value: "10+", icon: "git" },
 ]
 
 export const aboutText = `I'm a final-year Informatics Engineering student with a love for building clean, 
